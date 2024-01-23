@@ -76,7 +76,6 @@ export default {
 <style>
 h1 {
   color: #EF117A;
-  /* Rojo oscuro */
   text-align: center;
 }
 
